@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k8vcLQ1SueTFUHtzXyTwuIbz61X3BKmK5hJf1Vyymp6WenOIQbg0AnOczha//nTfMXyswFTM5IMz2MPgT9m2xA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\sverre.kallberg\\Desktop\\prog spel\\SlutProj\\SlutProj\\SlutProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sverre.kallberg\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\sverre.kallberg\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
