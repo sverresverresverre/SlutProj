@@ -20,3 +20,4 @@ c:\Users\sverre.kallberg\Desktop\prog spel\SlutProj\SlutProj\obj\Debug\net7.0\re
 c:\Users\sverre.kallberg\Desktop\prog spel\SlutProj\SlutProj\obj\Debug\net7.0\SlutProj.pdb
 c:\Users\sverre.kallberg\Desktop\prog spel\SlutProj\SlutProj\obj\Debug\net7.0\SlutProj.genruntimeconfig.cache
 c:\Users\sverre.kallberg\Desktop\prog spel\SlutProj\SlutProj\obj\Debug\net7.0\ref\SlutProj.dll
+c:\Users\sverre.kallberg\Desktop\prog spel\SlutProj\SlutProj\bin\Debug\net7.0\Player.png
