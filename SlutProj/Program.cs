@@ -19,7 +19,7 @@ void Player()
     }
     else
     {
-        playerRect.Y += 10;
+        playerRect.Y += 6;
 
         Raylib.DrawTexture(playerImage, (int)playerRect.X, (int)playerRect.Y, Color.White);
     }
