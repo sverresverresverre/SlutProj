@@ -1,0 +1,27 @@
+storleken på rutan
+
+scenen som spelet startar med "start"
+
+Inkallar spelartexturen
+storleken på spelarens hitbox
+
+positioner för slutpunkterna för varje level
+
+metod för spelarens rörelser
+
+metod för kanterna av spelarområdet
+
+listor för alla hinder
+
+while loop där spelet är {
+
+if sats för start scenen 
+
+if sats för level 1
+
+if sats för level 2
+
+if sats för level 3
+
+if sats för vinstskärmen
+}

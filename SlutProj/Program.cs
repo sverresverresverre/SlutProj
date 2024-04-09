@@ -10,6 +10,8 @@ string scene = "start";
 Texture2D playerImage = Raylib.LoadTexture("Player.png");
 Rectangle playerRect = new Rectangle(0, 0, 50, 50);
 
+// Platserna för vinstpositionen 
+
 Rectangle door1Rect = new Rectangle(325, 50, 50, 50);
 Rectangle door2Rect = new Rectangle(425, 325, 50, 50);
 Rectangle door3Rect = new Rectangle(425, 225, 50, 50);
@@ -64,6 +66,8 @@ void Borders()
         playerRect.X += 0;
     }
 }
+
+// Listor för väggarna 
 
 List<Rectangle> walls = new();
 walls.Add(new Rectangle(0, 700, 200, 100));
