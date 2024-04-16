@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\sverre.kallberg\\Desktop\\prog spel\\SlutProj\\SlutProj\\SlutProj.csproj": {}
+    "C:\\Users\\sverre.kallberg\\Desktop\\prog spel\\SlutProj\\SlutProj\\SlutProj.csproj": {}
   },
   "projects": {
-    "c:\\Users\\sverre.kallberg\\Desktop\\prog spel\\SlutProj\\SlutProj\\SlutProj.csproj": {
+    "C:\\Users\\sverre.kallberg\\Desktop\\prog spel\\SlutProj\\SlutProj\\SlutProj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\sverre.kallberg\\Desktop\\prog spel\\SlutProj\\SlutProj\\SlutProj.csproj",
+        "projectUniqueName": "C:\\Users\\sverre.kallberg\\Desktop\\prog spel\\SlutProj\\SlutProj\\SlutProj.csproj",
         "projectName": "SlutProj",
-        "projectPath": "c:\\Users\\sverre.kallberg\\Desktop\\prog spel\\SlutProj\\SlutProj\\SlutProj.csproj",
+        "projectPath": "C:\\Users\\sverre.kallberg\\Desktop\\prog spel\\SlutProj\\SlutProj\\SlutProj.csproj",
         "packagesPath": "C:\\Users\\sverre.kallberg\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\sverre.kallberg\\Desktop\\prog spel\\SlutProj\\SlutProj\\obj\\",
+        "outputPath": "C:\\Users\\sverre.kallberg\\Desktop\\prog spel\\SlutProj\\SlutProj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
